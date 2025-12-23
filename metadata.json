@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Tree",
+  "description": "A high-fidelity, interactive 3D Christmas experience featuring cinematic luxury aesthetics, physics-based gestures, and magical particle effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
